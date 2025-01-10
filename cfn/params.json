@@ -17,6 +17,6 @@
       },
       {
         "ParameterKey": "MlOpsStepFunctionArn",
-        "ParameterValue": "arn:aws:iam::809312967587:role/sam-sf-sagemaker-workflow-StepFunctionsRole-rywBZ1UcHojW"
+        "ParameterValue": "arn:aws:states:ap-south-1:809312967587:stateMachine:MLOpsStepFunction-809312967587"
       }
 ]
