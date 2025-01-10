@@ -1,22 +1,7 @@
 [
-    {
-      "ParameterKey": "GitHubRepo",
-      "ParameterValue": "codepipeline-ecr-build-sf-execution"
-    },
-    {
-        "ParameterKey": "GitHubBranch",
-        "ParameterValue": "main"
-      },
-      {
-        "ParameterKey": "GitHubToken",
-        "ParameterValue": "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"
-      },
-      {
-        "ParameterKey": "GitHubUser",
-        "ParameterValue": "mageshkummarr"
-      },
-      {
-        "ParameterKey": "MlOpsStepFunctionArn",
-        "ParameterValue": "arn:aws:states:ap-south-1:809312967587:stateMachine:MLOpsStepFunction-809312967587"
-      }
+  {"ParameterKey":"GitHubRepo","ParameterValue":"codepipeline-ecr-build-sf-execution"},
+  {"ParameterKey":"GitHubBranch","ParameterValue":"main"},
+  {"ParameterKey":"GitHubToken","ParameterValue":"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"},
+  {"ParameterKey":"GitHubUser","ParameterValue":"mageshkummarr"},
+  {"ParameterKey":"MlOpsStepFunctionArn","ParameterValue":"arn:aws:states:ap-south-1:809312967587:stateMachine:MLOpsStepFunction-809312967587"}
 ]
